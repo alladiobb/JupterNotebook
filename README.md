@@ -1,4 +1,7 @@
 # Manipulando CSV
 
-## Install LLB
-pip install scikit-learn
+## Rede Neural Install LLB
+pip install numpy torch torchvision matplotlib
+
+## Project MatplotLib Install LLB
+pip install  matplotlib
